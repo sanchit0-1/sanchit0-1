@@ -14,10 +14,10 @@ Fullstack developer from India
 
 ## Tech Stack
 
-**Frontend:** React, Redux, TypeScript, HTML5, CSS3, Tailwind  
-**Backend:** Node.js, Express, MongoDB, Mongoose  
-**Languages:** Js, c, Rust, python, bash
-**Tools:** Git, Docker, Kubernetes, Linux, Arduino, Turbopack
+**Frontend :** |React|Redux|TypeScript|HTML5|CSS3|Tailwind|  
+**Backend :** |Node.js|Express|MongoDB|Mongoose|  
+**Languages :** |Js|C|Rust|Python|Bash|
+**Tools :** |Git|Docker|Kubernetes|Linux|Arduino|Turbopack|
 
 ## Stats
 
