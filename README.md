@@ -23,9 +23,9 @@ Fullstack developer from India
 
 <div align="center">
 
-| GitHub Stats | Most Used Languages | Streak Stats |
+| GitHub Stats | Most Used Languages |
 | :---: | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=sanchit0-1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=58a6ff&icon_color=58a6ff&border_color=30363d&count_private=true" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchit0-1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=58a6ff&icon_color=58a6ff&border_color=30363d" width="400" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchit0-1&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&dates=58a6ff" width="400" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=sanchit0-1&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=58a6ff&icon_color=58a6ff&border_color=30363d&count_private=true" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchit0-1&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=58a6ff&title_color=58a6ff&icon_color=58a6ff&border_color=30363d" width="400" /> 
 
 </div>
 
