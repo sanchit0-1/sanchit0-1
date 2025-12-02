@@ -1,19 +1,10 @@
 # Hi, I'm Sanchit Gupta !
-
-I'm a passionate fullstack developer from India, skilled in building robust web applications and exploring the latest in web3 technologies.
-
 - 📡 **Contact:** sanchity2005@gmail.com
-- 💡 **Fun fact:** I'm the Swiss Army knife of programming—from C matrix operations to React and blockchain!
-- 🧩 **Interests:** Web3, open source, developer tooling
-
 ---
 
 ## 🚀 Connect With Me
-
-[Instagram](https://instagram.com/sanchit0_1) • 
 [HackerRank](https://www.hackerrank.com/@sanc_aot24) • 
 [LeetCode](https://www.leetcode.com/sanchit0_1)
-
 ---
 
 ## 🛠️ Tech Stack
